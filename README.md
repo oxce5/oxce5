@@ -1,4 +1,4 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/oxce5.png" alt="kasane teto forever <3" />
+<img src="./assets/tryhackme-badge.png" alt="kasane teto forever <3" />
 
 <picture>
   <source
