@@ -4,7 +4,10 @@ on:
   schedule:
     - cron: '0 0 * * *' # Runs every day at midnight
   workflow_dispatch: # Allows manual triggering
-
+  
+permissions:
+  contents: write
+  
 jobs:
   update-badge:
     runs-on: ubuntu-22.04
