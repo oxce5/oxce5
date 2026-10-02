@@ -10,4 +10,5 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.zcy.dev/api?username=oxce5&show_icons=true" />
+  <img src="https://ghstats.dev/api/langs?username=oxce5&theme=tokyonight&max_langs=5" alt="Top Languages" />
 </picture>
